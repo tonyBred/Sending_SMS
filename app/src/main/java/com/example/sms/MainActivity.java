@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void onClick(View v){
-        sendSMS("089611727200", "Anjig konci motor simpen di mangkok ai sia");
+        sendSMS("089699408077", "Supp!");
     }
 
     public void sendSMS(String phoneNumber, String message){
